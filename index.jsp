@@ -13,7 +13,7 @@
 			<b>Please enter some HTML and try to XSS the server-side sanitizer!</b><br/><br/>
 			The current server-side policy allows the following tags ("a", "p", "div", "i", "b", "em",<br/>
 			"blockquote", "tt", "strong", "br", "ul", "ol", "li") and only certain attributes.<br/>
-			We have also enabled "allowStyling" so you can test against our new CSS sanitization.<br/>
+			We have also enabled "allowStyling" so you can test against our new CSS zxczxcsanitization.<br/>
             Good luck!<br/><br/>
 			<textarea rows="10" cols="80" name="usercontent"></textarea><br/>
 			<input type="submit" value="submit">						
